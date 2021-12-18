@@ -6,9 +6,14 @@
   padding-bottom: 7%;
 }
 
-p {
+.description {
   font-size: 2rem;
+  font-weight: normal;
+}
+
+p {
   line-height: 2;
+
 }
 
 body {
